@@ -1,3 +1,6 @@
+% I have added this at the start to quickly test out github
+
+
 function fcn_myPlot(x_all_time)
 global A d n
 num=5;
