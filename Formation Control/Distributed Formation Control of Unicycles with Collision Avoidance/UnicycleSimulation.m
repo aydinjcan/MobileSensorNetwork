@@ -1,5 +1,5 @@
 % This script simulates formation control of a group of unicycles.
-%
+% This line here is a test to ensure that github is working
 %
 % -------> IMPORTANT:  CVX must be installed before running this script! 
 %
